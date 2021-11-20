@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poem on Hugo-HT</title>
+    <link>https://example.com/tags/poem/</link>
+    <description>Recent content in poem on Hugo-HT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>发布的视频为何没有点击量</title>
+      <link>https://example.com/cn/2021/11/18/road-not-taken/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/cn/2021/11/18/road-not-taken/</guid>
+      <description>发布的视频为何没有点击量 出现发布的视频没有点击量这一问题需要从内部和外部的原因来分析解决：
+内部原因：自己的作品是否超过了10条且是否质量够高、能够吸引人，如果以上条件达到了，在发布了视频后可退出账号24小时，再返回来看是否增加了点击率.
+外部原因：搭建的网络环境是否达到了95%以上的伪装度，是否切换了地区、语言、时区等海外环境；连接好节点后，查询伪装度可以通过WHOER查询，页面可查看百分制的网络伪装度，百分比值越高伪装度越高；
+WHOER查询页面以上，即是解决点击量问题的办法，对于需要海外运营的同学来讲十分有必要掌握。
+如果还是不太明白，可以点击这里进行咨询。</description>
+    </item>
+    
+    <item>
+      <title>发布的视频为何没有点击量</title>
+      <link>https://example.com/en/2021/11/18/road-not-taken/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/en/2021/11/18/road-not-taken/</guid>
+      <description>发布的视频为何没有点击量 出现发布的视频没有点击量这一问题需要从内部和外部的原因来分析解决：
+内部原因：自己的作品是否超过了10条且是否质量够高、能够吸引人，如果以上条件达到了，在发布了视频后可退出账号24小时，再返回来看是否增加了点击率.
+外部原因：搭建的网络环境是否达到了95%以上的伪装度，是否切换了地区、语言、时区等海外环境；连接好节点后，查询伪装度可以通过WHOER查询，页面可查看百分制的网络伪装度，百分比值越高伪装度越高；
+WHOER查询页面以上，即是解决点击量问题的办法，对于需要海外运营的同学来讲十分有必要掌握。
+如果还是不太明白，可以点击这里进行咨询。</description>
+    </item>
+    
+  </channel>
+</rss>

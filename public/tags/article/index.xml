@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article on Hugo-HT</title>
+    <link>https://example.com/tags/article/</link>
+    <description>Recent content in article on Hugo-HT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 13:37:57 -0500</lastBuildDate><atom:link href="https://example.com/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TiKTok为何不能注册/关注/点赞/评论/收藏</title>
+      <link>https://example.com/cn/2021/11/19/second-post/</link>
+      <pubDate>Fri, 19 Nov 2021 13:37:57 -0500</pubDate>
+      
+      <guid>https://example.com/cn/2021/11/19/second-post/</guid>
+      <description>TiKTok为何不能注册/关注/点赞/评论/收藏 首先，摆出一个结论，即能够正常刷TikTok，就能拥有TikTok的一切功能的正常使用权，包括但不限于发布视频、看直播、注册、关注、点赞、评论、收藏。
+特别是针对需要运营TikTok的同学，正常使用以上功能就变得尤为重要，那么为什么有很多使用的同学发现不能正常注册、不能看直播、点赞关注了以后还是显示无关注无点赞呢？
+TikTok使用图示原因一：节点流量包、网络的不稳定，试想，你拿着3G、甚至2G网络去刷抖音，抖音能正常使用吗？
+所以，这里的原因在于梯子所用的节点、流量包的不稳定，解决了它，即可正常注册和接下来的一切正常活动。在这里要注意的是，注册时尽量不要选国内手机号码注册，因为你在完成了环境配置以后已经是“海外用户”了，怎么会有国内手机号呢？
+解决流量包、网络的不稳定需要更换当前所用流量包、节点，怎么找到免费/付费节点、流量包去更换使用，本文不涉及，请自行百度原因二：已注册登录的账号被识别为风控账号，即认为你的账号不是正常海外用户，对上文提到的功能进行限制使用。
+解决方案：重新注册账号，且注册方式选择邮箱注册，最好是google的gmail邮箱，Outlook邮箱来注册额，次选是163邮箱、QQ邮箱来注册，不要使用手机号码注册。
+总结：以上提到的功能限制，不能正常使用均可通过以上的解决方案解决掉，如果还是不太明白，可以点这里咨询我</description>
+    </item>
+    
+    <item>
+      <title>TiKTok为何不能注册/关注/点赞/评论/收藏</title>
+      <link>https://example.com/en/2021/11/19/second-post/</link>
+      <pubDate>Fri, 19 Nov 2021 13:37:57 -0500</pubDate>
+      
+      <guid>https://example.com/en/2021/11/19/second-post/</guid>
+      <description>TiKTok为何不能注册/关注/点赞/评论/收藏 首先，摆出一个结论，即能够正常刷TikTok，就能拥有TikTok的一切功能的正常使用权，包括但不限于发布视频、看直播、注册、关注、点赞、评论、收藏。
+特别是针对需要运营TikTok的同学，正常使用以上功能就变得尤为重要，那么为什么有很多使用的同学发现不能正常注册、不能看直播、点赞关注了以后还是显示无关注无点赞呢？
+TikTok使用图示原因一：节点流量包、网络的不稳定，试想，你拿着3G、甚至2G网络去刷抖音，抖音能正常使用吗？
+所以，这里的原因在于梯子所用的节点、流量包的不稳定，解决了它，即可正常注册和接下来的一切正常活动。在这里要注意的是，注册时尽量不要选国内手机号码注册，因为你在完成了环境配置以后已经是“海外用户”了，怎么会有国内手机号呢？
+解决流量包、网络的不稳定需要更换当前所用流量包、节点，怎么找到免费/付费节点、流量包去更换使用，本文不涉及，请自行百度原因二：已注册登录的账号被识别为风控账号，即认为你的账号不是正常海外用户，对上文提到的功能进行限制使用。
+解决方案：重新注册账号，且注册方式选择邮箱注册，最好是google的gmail邮箱，Outlook邮箱来注册额，次选是163邮箱、QQ邮箱来注册，不要使用手机号码注册。
+总结：以上提到的功能限制，不能正常使用均可通过以上的解决方案解决掉，如果还是不太明白，可以点这里咨询我</description>
+    </item>
+    
+  </channel>
+</rss>
