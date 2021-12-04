@@ -1,6 +1,6 @@
 ---
-title: "TikTok ios苹果手机11月最新下载使用教程（免拔卡）"
-date: 2021-11-19T17:31:37+08:00
+title: "TikTok ios苹果手机12月最新下载使用教程（免拔卡）"
+date: 2021-12-03T17:31:37+08:00
 author: WTFXQ
 draft: false
 ---
@@ -77,7 +77,7 @@ PS：在完成小火箭配置后，需要导入小火箭节点才能正常使用
 
 {{<figure src="https://www.z4a.net/images/2021/11/19/_20211119203113.jpg" title="TikTok使用图示" width="400">}}
 
-### 2021年11月20日本店购买链接：[TikTok苹果ios免拔卡配置>>>>](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.7.290b56c508GPMQ&id=659670945637&abbucket=3)
+### 2021年12月4日本店购买链接：[TikTok苹果ios免拔卡配置>>>>](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.7.290b56c508GPMQ&id=659670945637&abbucket=3)
 
 
 
