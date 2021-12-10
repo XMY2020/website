@@ -6,15 +6,15 @@ title: Home
 
 ## <center>**目录**</center>
 
-###  一、[**TikTok下载使用教程最新汇总（IOS/安卓免拔卡）**](./en/posts/)
+###  一、[**TikTok使用教程最新汇总（IOS/安卓免拔卡）**](./en/posts/)
 
 ---
 
-### 二、[**TikTok不能注册关注点赞**](./en/posts/)
+### 二、[**解决TikTok不能注册关注点赞问题**](./en/posts/)
 
 ---
 
-### 三、[**TikTok发布视频没有点击量**](./en/posts/)
+### 三、[**解决TikTok发布视频0播放问题**](./en/posts/)
 
 
 
