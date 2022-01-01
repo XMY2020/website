@@ -34,3 +34,9 @@ tags:
 
 总结：以上提到的功能限制，不能正常使用均可通过以上的解决方案解决掉，如果还是不太明白，可以[点这里咨询我](https://m.tb.cn/h.fQTOyQf?sm=33e902)
 
+### 2022年1月1日免拔卡配置购买链接：
+
+### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+
+### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+
