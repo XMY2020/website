@@ -24,11 +24,11 @@ tags:
 
 **以上，即是解决点击量问题的办法，对于需要海外运营的同学来讲十分有必要掌握。**
 
-**如果还有疑问，[可以点击这里进行咨询。](https://m.tb.cn/h.fQTOyQf?sm=33e902)**
+**如果还有疑问，[可以点击这里进行咨询。](https://m.tb.cn/h.fjReYyA?sm=6f7290)**
 
 
 
-### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
-### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 

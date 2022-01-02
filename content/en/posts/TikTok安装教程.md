@@ -11,9 +11,9 @@ draft: false
 
 ### 2022年1月1日免拔卡配置购买链接：
 
-### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
-### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
 
 
@@ -45,9 +45,9 @@ draft: false
 
 **步骤一：下载Shadowrocket（小火箭）和TikTok**
 
-按以前的常理，以上这两个应用都需要去Apple Store登陆美区的苹果账号进行下载，美区账号的话可以自己注册或者购买。但是现在请**注意**：**现在只去Apple Store下载一个Shadowrocket（小火箭）即可，不能再去下载TikTok了，前文已经说了，10.15号以后，目前在商店下载的TikTok无法实现免拔卡，Apple Store下载的TikTok最新版现在没有技术解决方案，但是别急，我们有目前最新的支持免拔卡的版本，官方正版，功能一切正常，通过技术抓包官方历史版本获得，如果需要，[可以点击这里了解获取](https://m.tb.cn/h.fQTOyQf?sm=33e902)。**
+按以前的常理，以上这两个应用都需要去Apple Store登陆美区的苹果账号进行下载，美区账号的话可以自己注册或者购买。但是现在请**注意**：**现在只去Apple Store下载一个Shadowrocket（小火箭）即可，不能再去下载TikTok了，前文已经说了，10.15号以后，目前在商店下载的TikTok无法实现免拔卡，Apple Store下载的TikTok最新版现在没有技术解决方案，但是别急，我们有目前最新的支持免拔卡的版本，官方正版，功能一切正常，通过技术抓包官方历史版本获得，如果需要，[可以点击这里了解获取](https://m.tb.cn/h.fjReYyA?sm=6f7290)。**
 
-虽然TikTok目前不能通过应用商店下载，但仍需要在Apple Store登陆美区账号进行下载Shadowrocket（小火箭），售价2.99美元的小火箭我们负责购买，您只需[登陆我们提供的专业的美区账号下载Shadowrocket](https://m.tb.cn/h.fQTOyQf?sm=33e902)即可。
+虽然TikTok目前不能通过应用商店下载，但仍需要在Apple Store登陆美区账号进行下载Shadowrocket（小火箭），售价2.99美元的小火箭我们负责购买，您只需[登陆我们提供的专业的美区账号下载Shadowrocket](https://m.tb.cn/h.fjReYyA?sm=6f7290)即可。
 
 **注意：如果拿到了美区账号后，是登陆Apple Store（应用商城）去下载Shadowrocket（小火箭）的，而不是去设置里登陆所提供的账号，切记。最后，待TikTok能够正常使用后，即可退出提供的的美区账号。**
 
@@ -57,11 +57,11 @@ draft: false
 
 **1.打开刚刚下载好的Shadowrocket（小火箭），依次点击“配置”---"default.conf”，在弹出来的选项窗口里选择“编辑纯文本”再删掉指定冗余代码，用我们提供的配置代码进行复制粘贴替换，最后点击确定即可。**
 
-**2.获取TikTok配置代码，进行粘贴替换，即可完成配置伪装网络环境的重要一步。如果您需要的话可以[点击以下图片进入店铺【WTFXQ】进行购买](https://m.tb.cn/h.fQTOyQf?sm=33e902)，新店促销，一杯奶茶钱即可搞定，全程贴心指导。**
+**2.获取TikTok配置代码，进行粘贴替换，即可完成配置伪装网络环境的重要一步。如果您需要的话可以[点击以下图片进入店铺【WTFXQ】进行购买](https://m.tb.cn/h.fQjoaR1?sm=3e48d4)，新店促销，一杯奶茶钱即可搞定，全程贴心指导。**
 
-[![""](https://www.z4a.net/images/2021/11/19/t5.md.png) ](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+[![""](https://www.z4a.net/images/2021/11/19/t5.md.png) ](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
-[![15元包成功，精品教程，快速使用](https://www.z4a.net/images/2021/11/19/t1.md.png"tk")](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+[![15元包成功，精品教程，快速使用](https://www.z4a.net/images/2021/11/19/t1.md.png"tk")](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
 
 
@@ -89,9 +89,9 @@ PS：在完成小火箭配置后，需要导入小火箭节点才能正常使用
 
 ### 2022年1月1日本店购买链接：
 
-### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok苹果ios免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
-### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fQTOyQf?sm=33e902)
+### [TikTok安卓/鸿蒙免拔卡配置>>>>](https://m.tb.cn/h.fjReYyA?sm=6f7290)
 
 
 
